@@ -1,6 +1,10 @@
 # Todolist 
 Todolist ini dirancang untuk memembuat catatan dalam melakukan sesuatu dalam kehidupan sehar-hari.
 
+## Tech Stack
+- PHP 8
+- Bootstrap 5
+
 ## Download 
 Copykan link dibawah untuk mendownload repository atau bisa langsuk klik [link ini](https://github.com/alirfanyasin/Todolist-PHP/archive/refs/heads/master.zip) <br/>
 ***Note***
